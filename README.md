@@ -1,5 +1,6 @@
-# hackathon-0
-Accelerating Longevity Biotech, using Cerebras, OpenRouter, Qwen3 32B
+# hackathon-0 : Accelerate Retro.bio
+
+Accelerating Longevity Biotech, using Cerebras, OpenRouter, Qwen3 32B.
 
 Intention: to build something to accelerate Retro or other longevity biotech companies relying on AI models (agents or DNA/other models).
 
