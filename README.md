@@ -8,7 +8,7 @@ Result: too late to this hackathon. Preparing for the next one already :)
 
 Thank you for organizing!
 
-https://cerebras.ai/
-https://openrouter.ai/
-https://discord.gg/Rg4wMDtsnD
-https://lu.ma/3iy18vm7?tk=3ThXz1
+https://cerebras.ai/  
+https://openrouter.ai/  
+https://discord.gg/Rg4wMDtsnD  
+https://lu.ma/3iy18vm7?tk=3ThXz1  
